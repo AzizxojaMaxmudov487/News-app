@@ -1,0 +1,22 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.app{
+    height: 100vh;
+    overflow: scroll;
+    background: url(https://top-fon.com/uploads/posts/2023-01/1674908171_top-fon-com-p-smi-fon-dlya-prezentatsii-14.jpg) center / cover no-repeat;
+}
+.content{
+    display: grid;
+    grid-template-columns: 500px 450px;
+    max-width: 1040px;
+    margin: 0 auto;
+    padding-top: 50px;
+    &__page{
+        padding-left: 40px;
+    }
+}

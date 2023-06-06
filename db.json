@@ -1,0 +1,50 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "name": "BBC News",
+      "description": "This is my first project in redux.It's enjoy me because I do'nt worked with redex in before. And i will end this project fastly",
+      "category": "Hot News"
+    },
+    {
+      "id": "b5584442-84b0-401a-a4eb-5ea67efbc30d",
+      "name": "BBC News",
+      "description": "This is my first project in redux.It's enjoy me because I do'nt worked with redex in before. And i will end this project fastly",
+      "category": "World News"
+    },
+    {
+      "id": "d899be05-0183-43e3-a636-3a3b3f6dfbfd",
+      "name": "Azizxo'ja",
+      "description": "a",
+      "category": "Sport News"
+    },
+    {
+      "id": "bc7635c5-b854-4f53-ab27-8c51d508a2f4",
+      "name": "a",
+      "description": "a",
+      "category": "Sport News"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "Hot News",
+      "label": "Hot News",
+      "className": "btn-danger"
+    },
+    {
+      "name": "Sport News",
+      "label": "Sport News",
+      "className": "btn-primary"
+    },
+    {
+      "name": "World News",
+      "label": "World News",
+      "className": "btn-success"
+    }
+  ]
+}
